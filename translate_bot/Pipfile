@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "==3.22.0"
+deep-translator = "==1.11.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
